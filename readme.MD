@@ -2,7 +2,7 @@
 
 ![alt text](images/vpc.jpg)
 
-This module is developed for joindevops.com. We are creating following resources. This module creates resources in first 2 AZ for HA.
+We are creating following resources. This module creates resources in first 2 AZ for HA.
 
 * VPC
 * Internet Gateway
